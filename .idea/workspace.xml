@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6a20799e-6036-4e68-8931-6893e1461b4f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SymulatorPralki.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab06_p/Beben.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab06_p/Czujniki.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab06_p/Drzwiczki.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab06_p/ElektrozaworyWodne.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab06_p/GrzalkaDoWody.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab06_p/PanelPrzedni.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab06_p/PojemnikNaDetergenty.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab06_p/Pompka.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab06_p/Pralka.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab06_p/SilnikInwerterowy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab06_p/SterownikPredkosci.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab06_p/TrybyPrania.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2oke4D0eSbtlT0DlzhHinP09afa" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Pralka.executor": "Run",
+    "Application.TrybyPrania.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/Projekty_JetBrains/InteliJ projekty/Semestr 3/SymulatorPralki",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "D:/!Projekty JetBrains/Java Projekty/Lab06/src/Main.java",
+    "settings.editor.selected.configurable": "reference.settingsdialog.IDE.editor.colors.General",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-fbdcb00ec9e3-intellij.indexing.shared.core-IU-251.25410.129" />
+        <option value="bundled-js-predefined-d6986cc7102b-6a121458b545-JavaScript-IU-251.25410.129" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6a20799e-6036-4e68-8931-6893e1461b4f" name="Changes" comment="" />
+      <created>1731417810132</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1731417810132</updated>
+      <workItem from="1731417811158" duration="4891000" />
+      <workItem from="1731954566402" duration="45000" />
+      <workItem from="1732627612375" duration="345000" />
+      <workItem from="1732631379566" duration="963000" />
+      <workItem from="1732919720767" duration="1345000" />
+      <workItem from="1732997723742" duration="240000" />
+      <workItem from="1732998033579" duration="108000" />
+      <workItem from="1733065713682" duration="2448000" />
+      <workItem from="1733659461412" duration="19599000" />
+      <workItem from="1733685812634" duration="57000" />
+      <workItem from="1733765613198" duration="7335000" />
+      <workItem from="1733820587324" duration="1370000" />
+      <workItem from="1733836685120" duration="19000" />
+      <workItem from="1733839523784" duration="2112000" />
+      <workItem from="1734027053876" duration="6910000" />
+      <workItem from="1734095149786" duration="332000" />
+      <workItem from="1734102872059" duration="7434000" />
+      <workItem from="1735925001893" duration="1181000" />
+      <workItem from="1736441906618" duration="2820000" />
+      <workItem from="1736618214600" duration="119000" />
+      <workItem from="1737397863346" duration="2777000" />
+      <workItem from="1737740192671" duration="996000" />
+      <workItem from="1747752113231" duration="71000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
